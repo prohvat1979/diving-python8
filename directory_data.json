@@ -1,0 +1,32 @@
+[
+  {
+    "name": "directory_data.csv",
+    "type": "file",
+    "parent_directory": "D:\\python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\dz8",
+    "size": 125
+  },
+  {
+    "name": "directory_data.json",
+    "type": "file",
+    "parent_directory": "D:\\python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\dz8",
+    "size": 365
+  },
+  {
+    "name": "directory_data.pickle",
+    "type": "file",
+    "parent_directory": "D:\\python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\dz8",
+    "size": 150
+  },
+  {
+    "name": "task_1.py",
+    "type": "file",
+    "parent_directory": "D:\\python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\dz8",
+    "size": 2312
+  },
+  {
+    "name": "task_2.py",
+    "type": "file",
+    "parent_directory": "D:\\python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\dz8",
+    "size": 206
+  }
+]
